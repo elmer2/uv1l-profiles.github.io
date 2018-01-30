@@ -1,0 +1,80 @@
+#header {
+	position: fixed;
+	top: 18px;
+	background-color: #373531;
+	height: 200px;
+	width: 100%;
+	margin-left: -7px
+}
+
+#title {
+	color: white;
+	font-size: 40px;
+	margin-left: 20px;
+	font-family: 'Raleway', sans-serif;}
+
+#desc {
+	color: #B4B1AE;
+	margin-top: -30px;
+	margin-left: 20px;
+	font-family: 'Raleway', sans-serif;
+}	
+
+#profile{
+	width: 60%;
+	position: fixed;
+	top: 220px;
+	margin-left: -7px;
+}
+
+#info{
+	width: 40%;
+	text-align: right;
+	position: fixed;
+	top: 210px;
+	right: 20px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+}
+
+#about{
+	position: fixed;
+	margin-left: -7px;
+	top: 538px;
+	width: 100%;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	color: white;
+	background-color: #AAA7A4;
+}
+
+#food{
+	position: fixed;
+	top: 660px;
+	width: 30%;
+	font-family: 'Oswald', sans-serif;
+	font size: 18px;
+	text-align: center;
+	left: 0%;
+}
+
+#sports{
+	position: fixed;
+	top: 660px;
+	width: 30%;
+	font-family: 'Oswald', sans-serif;
+	font size: 18px;
+	text-align: center;
+	left: 33%;
+}
+
+#subject{
+	position: fixed;
+	top: 660px;
+	width: 30%;
+	font-family: 'Oswald', sans-serif;
+	font size: 18px;
+	text-align: center;
+	right: 0%;
+}
